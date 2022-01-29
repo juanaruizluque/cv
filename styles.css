@@ -1,0 +1,34 @@
+body {
+background-color: #F4DFBA;
+  }
+
+  hr{
+     border-style: dotted none none none;
+     border: dotted #FFD39A;
+     border-width: 0 0 7px;
+    width: 7%;
+  }
+
+  h3{
+    color:#876445;
+    text-shadow: 2px 2px 5px #FFD39A ;
+  }
+  h3:hover{
+        color: #FF8C94 ;
+  }
+  h1{
+    color:#876445;
+     text-shadow: 2px 2px 5px #FFD39A ;
+  }
+  h1:hover{
+    color: #FF8C94 ;
+  }
+
+
+
+form{
+  background-color: #F4DFBA;
+
+
+
+}
